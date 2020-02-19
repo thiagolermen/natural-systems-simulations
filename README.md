@@ -2,5 +2,5 @@
 Some physical and biological simulations
 
 ## Mathematics
-* [Maurer Rose]
+* [Maurer Rose](https://github.com/thiagolermen/Simulation-of-Natural-Systems/tree/master/src/maurer-rose)
 
