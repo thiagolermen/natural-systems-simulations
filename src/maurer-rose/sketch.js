@@ -9,18 +9,20 @@ var sliderD;
 var sliderN;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
   sliderD = createSlider(1, 180, 1);
-  sliderN = createSlider(0, 100);
-  //sliderD.input(draw);
-  //sliderN.input(draw);
+  sliderN = createSlider(0, 100, 1);
+  sliderD.input(draw);
+  sliderN.input(draw);
   angleMode(DEGREES);
 }
 
 function draw() {
-  //d = sliderD.value();
-  //n = sliderN.value();
-  background(0);
+  d = sliderD.value();
+  n = sliderN.value();
+  background(100, 100, 100);
+  text('d = ' + d, 80, 490);
+  text('n = ' + n, 260, 490);
   translate(width/2, height/2);
   stroke(255);
   
@@ -35,9 +37,7 @@ function draw() {
     vertex(x, y);
   }
   endShape(CLOSE);
-  
-  n += 0.01;
-  d += 0.03;
+
 
 }
 
