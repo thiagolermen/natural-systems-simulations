@@ -2,7 +2,7 @@
 Some physical and biological simulations
 
 ## Mathematics
-* [Maurer Rose](https://github.com/thiagolermen/Simulation-of-Natural-Systems/tree/master/src/maurer-rose)
+* [Maurer Rose](https://github.com/thiagolermen/Simulation-of-Natural-Systems/tree/master/src/maurer_rose)
 * [Collatz Conjecture](https://github.com/thiagolermen/Simulation-of-Natural-Systems/tree/master/src/collatz_conjecture)
 
 ## Physics & Chemistry
