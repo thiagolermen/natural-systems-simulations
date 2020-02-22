@@ -6,6 +6,7 @@ Some physical and biological simulations
 * [Collatz Conjecture](https://github.com/thiagolermen/Simulation-of-Natural-Systems/tree/master/src/collatz_conjecture)
 
 ## Physics & Chemistry
+* [Double Pendulum](https://github.com/thiagolermen/Simulation-of-Natural-Systems/tree/master/src/double_pendulum)
 
 ## Biology
 
