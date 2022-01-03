@@ -1,4 +1,4 @@
-# Simulation of Natural Systems
+# Simulations of Natural Systems
 Some physical, chemical, biological and mathematical simulations.
 
 ## Mathematics
